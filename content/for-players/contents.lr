@@ -1,0 +1,139 @@
+_model: page
+---
+title: For Players
+---
+body:
+
+# RTOOT FALL 2016 SCHEDULE
+
+<table border="0" width="100%">
+    <tbody>
+    <tr>
+        <th></th>
+        <th>Date</th>
+        <th>Facility</th>
+        <th>Room</th>
+        <th>Time</th>
+    </tr>
+    <tr class="heading">
+        <td colspan="5"><strong>AUDITIONS</strong></td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>August 21</td>
+        <td>Cary Arts Center</td>
+        <td>Paul Cooper</td>
+        <td>2pm – 5pm</td>
+    </tr>
+    <tr>
+        <td colspan="5">&nbsp;</td>
+    </tr>
+    <tr class="heading">
+        <td colspan="5"><strong>REHEARSALS</strong></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>September 11</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>September 18</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>September 25</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>October 2</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>October 9</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>October 16</td>
+        <td>Cary Arts Center</td>
+        <td>Marcus Dry Room</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>October 23</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>October 30</td>
+        <td>Bond Park Community Center</td>
+        <td>Oak</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>November 6</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>November 13</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>November 20</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>November 27</td>
+        <td>Thanksgiving Weekend (No Rehearsal)</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>December 4</td>
+        <td>Herb Young Community Center</td>
+        <td>A</td>
+        <td>2pm – 4pm</td>
+    </tr>
+    <tr>
+        <td colspan="5">&nbsp;</td>
+    </tr>
+    <tr class="heading">
+        <td colspan="5"><strong>PERFORMANCE</strong></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>December 6</td>
+        <td>Cary Arts Center</td>
+        <td>Theatre</td>
+        <td>7:30pm</td>
+    </tr>
+  </tbody>
+</table>

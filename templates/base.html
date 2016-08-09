@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>{% block title %}Welcome{% endblock %} — RTOOT</title>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="RTOOT">
+  <meta property="og:description" content="The Really Terrible Orchestra of the Triangle">
+  <meta property="og:url" content="https://rtoot.org/">
+  <meta property="og:site_name" content="RTOOT">
+  <meta property="og:locale" content="en_US">
+  <meta name="description" content="The Really Terrible Orchestra of the Triangle">
+  <link rel="stylesheet" href="{{ '/static/css/style.css'|url }}" type="text/css" media="screen" />
+</head>
+<body class="page page-template page-template-full-width">
+	<div id="header">
+    <div id="logo">
+			<h1>
+				<a href="{{ '/'|url }}">RTOOT</a>
+			</h1>
+		</div>
+    <div class="page-list">
+      <ul>
+        {% for href, title in bag('main-nav').iteritems() %}
+          <li class="page_item{% if this._path == href %} current_page_item{% endif %}"><a href="{{ href|url }}">{{ title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+	</div>
+	<div id="main-wrap">
+		<div id="main">
+			<div id="site-description">
+				<h2>The Really Terrible Orchestra of the Triangle</h2>
+			</div>
+      <div id="content">
+        <div class="page type-page">
+          {% block body %}{% endblock %}
+        </div>
+      </div>
+			<div id="before-footer"></div><!-- #before-footer -->
+		</div>
+	</div>
+	<div id="footer">
+    <div class="copyright">
+      <p>RTOOT.org is proudly powered by <a href="https://www.getlektor.com/" target="_blank">Lektor</a>. <a href="http://spectrum-theme.com/" target="_blank">Spectrum Theme</a> by <a href="http://www.ignacioricci.com" target="_blank">Ignacio Ricci</a></p>
+    </div>
+	</div>
+</body>
+</html>

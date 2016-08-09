@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  <div class="main-title">
+    <h3>{{ this.title }}</h3>
+    <div class="left-fold"></div>
+    <div class="edge"></div>
+  </div>
+  <div class="entry">
+    {{ this.body }}
+  </div>
+{% endblock %}
