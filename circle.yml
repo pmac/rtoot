@@ -1,0 +1,16 @@
+machine:
+  environment:
+    PIP_DISABLE_PIP_VERSION_CHECK: true
+    DOKKU_HOST: techb.us
+    DOKKU_APP_NAME: rtoot
+
+test:
+  override:
+    - lektor project-info
+
+deployment:
+  prod:
+    branch: master
+    owner: pmac
+    commands:
+      - ./deploy.sh

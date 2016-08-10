@@ -1,9 +1,10 @@
 #!/bin/bash -ex
 
-git branch -D build
-git checkout -b build
-lektor build -O build
-git add build
+lektor build -O _publish/build
+cp Dockerfile nginx.conf _publish/
+cd _publish
+git init
+git remote add dokku dokku@$DOKKU_HOST:$DOKKU_APP_NAME
+git add .
 git commit -m "add built site"
-git push -f dokku build:master
-git checkout -
+git push -f dokku master
