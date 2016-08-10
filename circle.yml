@@ -5,6 +5,8 @@ machine:
     DOKKU_APP_NAME: rtoot
     GIT_AUTHOR_NAME: Paul McLanahan
     GIT_AUTHOR_EMAIL: pmclanahan@gmail.com
+    GIT_COMMITTER_NAME: "$GIT_AUTHOR_NAME"
+    GIT_COMMITTER_EMAIL: "$GIT_AUTHOR_EMAIL"
 
 test:
   override:
