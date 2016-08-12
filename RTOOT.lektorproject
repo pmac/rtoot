@@ -1,2 +1,4 @@
 [project]
 name = RTOOT
+url = https://rtoot.org/
+url_style = absolute
