@@ -527,9 +527,11 @@ div.bypostauthor .pointer {
 .entry ol li {
 	line-height: 130%;
 	margin: 0 0 7px 25px;
+	font-size: 0.8em;
 }
 .entry ul li {
-	list-style: url(../images/icons/bullet.gif);
+	/*list-style: url(../images/icons/bullet.gif);*/
+	list-style: disc;
 }
 .entry ol li {
 	list-style: decimal;
