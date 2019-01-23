@@ -7,7 +7,7 @@ setup(
     author_email='paul@mclanahan.net',
     license='MIT',
     py_modules=['lektor_extra_config'],
-    install_requires=['everett'],
+    install_requires=['everett==0.9'],
     entry_points={
         'lektor.plugins': [
             'extra-config = lektor_extra_config:ExtraConfigPlugin',
