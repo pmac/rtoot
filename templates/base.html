@@ -21,7 +21,7 @@
 		</div>
     <div class="page-list">
       <ul>
-        {% for href, title in bag('main-nav').iteritems() %}
+        {% for href, title in bag('main-nav').items() %}
           <li class="page_item{% if this._path == href %} current_page_item{% endif %}"><a href="{{ href|url }}">{{ title }}</a></li>
         {% endfor %}
       </ul>

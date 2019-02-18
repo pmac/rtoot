@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import csv
-from cStringIO import StringIO
+from io import StringIO
 
 from lektor.pluginsystem import Plugin
 from lektor.types import Type
