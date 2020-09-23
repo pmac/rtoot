@@ -10,6 +10,9 @@
 
     <h1>{{ this.heading }}</h1>
 
+    {{ this.note }}
+
+    {% if this.auditions or this.rehearsals or this.performance %}
     <table border="0" width="100%">
       <tbody>
       <tr>
@@ -36,34 +39,39 @@
           <td colspan="5">&nbsp;</td>
         </tr>
       {% endif %}
-      <tr class="heading">
-        <td colspan="5"><strong>REHEARSALS</strong></td>
-      </tr>
-      {% for row in this.rehearsals %}
-        <tr>
-          <td>{{ row.number }}</td>
-          <td>{{ row.date }}</td>
-          <td>{{ row.facility }}</td>
-          <td>{{ row.room }}</td>
-          <td>{{ row.time }}</td>
-        </tr>
-      {% endfor %}
-      <tr>
-        <td colspan="5">&nbsp;</td>
-      </tr>
-      <tr class="heading">
-        <td colspan="5"><strong>PERFORMANCE</strong></td>
-      </tr>
-      {% for row in this.performance %}
-        <tr>
-          <td></td>
-          <td>{{ row.date }}</td>
-          <td>{{ row.facility }}</td>
-          <td>{{ row.room }}</td>
-          <td>{{ row.time }}</td>
-        </tr>
-      {% endfor %}
+      {% if this.rehearsals %}
+          <tr class="heading">
+            <td colspan="5"><strong>REHEARSALS</strong></td>
+          </tr>
+          {% for row in this.rehearsals %}
+            <tr>
+              <td>{{ row.number }}</td>
+              <td>{{ row.date }}</td>
+              <td>{{ row.facility }}</td>
+              <td>{{ row.room }}</td>
+              <td>{{ row.time }}</td>
+            </tr>
+          {% endfor %}
+          <tr>
+            <td colspan="5">&nbsp;</td>
+          </tr>
+      {% endif %}
+      {% if this.performance %}
+          <tr class="heading">
+            <td colspan="5"><strong>PERFORMANCE</strong></td>
+          </tr>
+          {% for row in this.performance %}
+            <tr>
+              <td></td>
+              <td>{{ row.date }}</td>
+              <td>{{ row.facility }}</td>
+              <td>{{ row.room }}</td>
+              <td>{{ row.time }}</td>
+            </tr>
+          {% endfor %}
+      {% endif %}
       </tbody>
     </table>
+    {% endif %}
   </div>
 {% endblock %}
