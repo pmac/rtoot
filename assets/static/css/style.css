@@ -1607,3 +1607,8 @@ tr.heading td {
 #concert {
     text-align: center;
 }
+
+p.note {
+    font-style: italic;
+    text-align: center;
+}
