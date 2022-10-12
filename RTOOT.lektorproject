@@ -2,3 +2,6 @@
 name = RTOOT
 url = https://rtoot.org/
 url_style = absolute
+
+[packages]
+lektor-markdown-header-anchors = 0.3.1
