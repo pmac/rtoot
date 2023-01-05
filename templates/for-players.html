@@ -56,11 +56,11 @@
       {% endif %}
       {% if this.concert %}
           <tr class="heading">
-            <td colspan="5"><strong>CONCERT</strong></td>
+            <td colspan="5"><strong>CONCERTS</strong></td>
           </tr>
           {% for row in this.concert %}
             <tr>
-              <td></td>
+              <td>{{ row.number }}</td>
               <td>{{ row.date }}</td>
               <td>{{ row.facility }}</td>
               <td>{{ row.room }}</td>
