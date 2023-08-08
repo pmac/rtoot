@@ -27,7 +27,7 @@ number, date, facility, room, time
 5, October 15, Herb Young Community Center, A, 2pm - 4pm
 6, October 22, Herb Young Community Center, A, 2pm - 4pm
 7, October 29, Senior Center, Ballroom, 2pm - 4pm
-8, November 5, Cary Arts Center, Marcus Dry, 2pm - 4pm
+8, November 5, Herb Young Community Center, A, 2pm - 4pm
 9, November 12, Herb Young Community Center, A, 2pm - 4pm
 10, November 19, Herb Young Community Center, A, 2pm - 4pm
  , November 26, Thanksgiving (No Rehearsal), ,
@@ -36,4 +36,4 @@ number, date, facility, room, time
 concert:
 
 number, date, facility, room, time
-, December 6, Cary Arts Center, , 7:30pm - 9:30pm
+, December 6, Cary Arts Center, Theater, 7:30pm - 9:30pm
