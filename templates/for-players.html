@@ -10,7 +10,7 @@
 
     {{ this.note }}
 
-    {% if this.auditions or this.rehearsals or this.performance %}
+    {% if this.auditions or this.rehearsals1 or this.performance %}
     <table border="0" width="100%">
       <tbody>
       <tr>
@@ -37,11 +37,11 @@
           <td colspan="5">&nbsp;</td>
         </tr>
       {% endif %}
-      {% if this.rehearsals %}
+      {% if this.rehearsals1 %}
           <tr class="heading">
-            <td colspan="5"><strong>REHEARSALS</strong></td>
+            <td colspan="5"><strong>{{ this.rehearsals1title }}</strong></td>
           </tr>
-          {% for row in this.rehearsals %}
+          {% for row in this.rehearsals1 %}
             <tr>
               <td>{{ row.number }}</td>
               <td>{{ row.date }}</td>
@@ -54,11 +54,45 @@
             <td colspan="5">&nbsp;</td>
           </tr>
       {% endif %}
-      {% if this.concert %}
+      {% if this.concert1 %}
           <tr class="heading">
-            <td colspan="5"><strong>CONCERTS</strong></td>
+            <td colspan="5"><strong>Concert</strong></td>
           </tr>
-          {% for row in this.concert %}
+          {% for row in this.concert1 %}
+            <tr>
+              <td>{{ row.number }}</td>
+              <td>{{ row.date }}</td>
+              <td>{{ row.facility }}</td>
+              <td>{{ row.room }}</td>
+              <td>{{ row.time }}</td>
+            </tr>
+          {% endfor %}
+          <tr>
+            <td colspan="5">&nbsp;</td>
+          </tr>
+      {% endif %}
+      {% if this.rehearsals2 %}
+          <tr class="heading">
+            <td colspan="5"><strong>{{ this.rehearsals2title }}</strong></td>
+          </tr>
+          {% for row in this.rehearsals2 %}
+            <tr>
+              <td>{{ row.number }}</td>
+              <td>{{ row.date }}</td>
+              <td>{{ row.facility }}</td>
+              <td>{{ row.room }}</td>
+              <td>{{ row.time }}</td>
+            </tr>
+          {% endfor %}
+          <tr>
+            <td colspan="5">&nbsp;</td>
+          </tr>
+      {% endif %}
+      {% if this.concert2 %}
+          <tr class="heading">
+            <td colspan="5"><strong>Concerts</strong></td>
+          </tr>
+          {% for row in this.concert2 %}
             <tr>
               <td>{{ row.number }}</td>
               <td>{{ row.date }}</td>

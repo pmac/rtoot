@@ -8,27 +8,58 @@ coc:
 ---
 note:
 
-# RTOOT Spring 2024 SCHEDULE
+# RTOOT SCHEDULE
 
 The RTOOT rehearses on Sunday afternoons, from 2:00 p.m. to 4:00 p.m. primarily at Cary’s Herb Young Community Center, 101 Wilkinson Ave, Cary, NC 27513.
 ---
-rehearsals:
-
-number, date, facility, room, time
-1, February 18, Herb Young Community Center, B, 2pm - 4pm
-2, February 25, Herb Young Community Center, B, 2pm - 4pm
-3, March 3, Herb Young Community Center, B, 2pm - 4pm
-4, March 10, Herb Young Community Center, B, 2pm - 4pm
-5, March 17, Herb Young Community Center, B, 2pm - 4pm
-6, March 24, Herb Young Community Center, B, 2pm - 4pm
- , March 31, Easter (No Rehearsal), ,
-7, April 7, Herb Young Community Center, B, 2pm - 4pm
-8, April 14, Herb Young Community Center, B, 2pm - 4pm
-9, April 21, Herb Young Community Center, B, 2pm - 4pm
-10, April 28, Herb Young Community Center, B, 2pm - 4pm
+rehearsals1title: Fall 2024 Schedule
 ---
-concert:
+rehearsals1:
 
 number, date, facility, room, time
-Wed, May 1, Cary Arts Center, Theater, 7:30pm - 9:30pm
-Sat, May 4, Cary Arts Center, Theater, 7:30pm - 9:30pm
+1, September 8, Herb Young Community Center, Eagle B, 2pm - 4pm
+2, September 15, Bond Park Community Center, Maple, 2pm - 4pm
+3, September 22, Herb Young Community Center, Eagle B, 2pm - 4pm
+4, September 29, Herb Young Community Center, Eagle B, 2pm - 4pm
+5, October 6, Herb Young Community Center, Eagle B, 2pm - 4pm
+6, October 13, Herb Young Community Center, Eagle B, 2pm - 4pm
+7, October 20, Herb Young Community Center, Eagle B, 2pm - 4pm
+8, October 27, Herb Young Community Center, Eagle B, 2pm - 4pm
+9, November 3, Herb Young Community Center, Eagle B, 2pm - 4pm
+10, November 10, Herb Young Community Center, Eagle B, 2pm - 4pm
+11, November 17, Herb Young Community Center, Eagle B, 2pm - 4pm
+12, November 24, Herb Young Community Center, Eagle B, 2pm - 4pm
+ , December 1, No Rehearsal (Thanksgiving), ,
+13, December 8, Herb Young Community Center, Eagle B, 2pm - 4pm
+---
+concert1:
+
+number, date, facility, room, time
+Wed, December 11, Cary Arts Center, Theater, 7:30pm - 9:30pm
+---
+rehearsals2title: Spring 2025 Schedule
+---
+rehearsals2:
+
+number, date, facility, room, time
+1, February 2, Herb Young Community Center, Eagle B, 2pm - 4pm
+2, February 9, Herb Young Community Center, Eagle B, 2pm - 4pm
+3, February 16, Herb Young Community Center, Eagle B, 2pm - 4pm
+4, February 23, Herb Young Community Center, Eagle B, 2pm - 4pm
+5, March 2, Herb Young Community Center, Eagle B, 2pm - 4pm
+6, March 9, Herb Young Community Center, Eagle B, 2pm - 4pm
+7, March 17, Herb Young Community Center, Eagle B, 2pm - 4pm
+8, March 23, Herb Young Community Center, Eagle B, 2pm - 4pm
+9, March 30, Herb Young Community Center, Eagle B, 2pm - 4pm
+10, April 6, Herb Young Community Center, Eagle B, 2pm - 4pm
+11, April 13, Herb Young Community Center, Eagle B, 2pm - 4pm
+ , April 20, No Rehearsal (Easter), ,
+12, April 27, Herb Young Community Center, Eagle B, 2pm - 4pm
+13, May 4, Herb Young Community Center, Eagle B, 2pm - 4pm
+14, May 11, Herb Young Community Center, Eagle B, 2pm - 4pm
+---
+concert2:
+
+number, date, facility, room, time
+Wed, May 14, Cary Arts Center, Theater, 7:30pm - 9:30pm
+Wed, May 21, Cary Arts Center, Theater, 7:30pm - 9:30pm
