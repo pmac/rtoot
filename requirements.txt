@@ -1,5 +1,5 @@
 Babel==2.9.1
-certifi==2021.10.8
+certifi==2022.12.7
 charset-normalizer==2.0.12
 click==7.1.2
 ExifRead==2.3.2
