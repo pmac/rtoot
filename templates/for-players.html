@@ -56,7 +56,7 @@
       {% endif %}
       {% if this.concert1 %}
           <tr class="heading">
-            <td colspan="5"><strong>Concert</strong></td>
+            <td colspan="5"><strong>Concerts</strong></td>
           </tr>
           {% for row in this.concert1 %}
             <tr>
@@ -105,7 +105,9 @@
       </tbody>
     </table>
     {% endif %}
-    <h2 id="rtoot-code-of-conduct">RTOOT Code of Conduct</h2>
-    {{ this.coc }}
+    {% if this.coc %}
+        <h2 id="rtoot-code-of-conduct">RTOOT Code of Conduct</h2>
+        {{ this.coc }}
+    {% endif %}
   </div>
 {% endblock %}
