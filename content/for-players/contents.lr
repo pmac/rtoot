@@ -11,35 +11,9 @@ note:
 # RTOOT SCHEDULE
 
 The RTOOT rehearses on Sunday afternoons, from 2:00 p.m. to 4:00 p.m. primarily at Cary’s Herb Young Community Center, 101 Wilkinson Ave, Cary, NC 27513.
----
-rehearsals1title: Fall 2025 Schedule
+rehearsals1title: Spring 2026 Schedule
 ---
 rehearsals1:
-
-number, date, facility, room, time
-1, September 7, Herb Young Community Center, Eagle B, 2pm - 4pm
-2, September 14, Herb Young Community Center, Eagle B, 2pm - 4pm
-3, September 21, Bond Park Community Center, Maple, 2pm - 4pm
-4, September 28, Herb Young Community Center, Eagle B, 2pm - 4pm
-5, October 5, Herb Young Community Center, Eagle B, 2pm - 4pm
-6, October 12, Herb Young Community Center, Eagle B, 2pm - 4pm
-7, October 19, Herb Young Community Center, Eagle B, 2pm - 4pm
-8, October 26, Herb Young Community Center, Cerdinal A, 2pm - 4pm
-9, November 2, Herb Young Community Center, Cardinal A, 2pm - 4pm
-10, November 9, Herb Young Community Center, Eagle B, 2pm - 4pm
-11, November 16, Herb Young Community Center, Eagle B, 2pm - 4pm
-12, November 23, Herb Young Community Center, Eagle B, 2pm - 4pm
- , November 30, No Rehearsal (Thanksgiving), ,
-13, December 7, Herb Young Community Center, Eagle B, 2pm - 4pm
----
-concert1:
-
-number, date, facility, room, time
-Wed, December 10, Cary Arts Center, Theater, 7:30pm - 9:30pm
----
-rehearsals2title: Spring 2026 Schedule
----
-rehearsals2:
 
 number, date, facility, room, time
 1, January 25, Herb Young Community Center, Eagle B, 2pm - 4pm
@@ -57,7 +31,7 @@ number, date, facility, room, time
 12, April 19, Herb Young Community Center, Eagle B, 2pm - 4pm
 13, April 26, Herb Young Community Center, Cardinal A, 2pm - 4pm
 ---
-concert2:
+concert1:
 
 number, date, facility, room, time
 Sat, May 2, Cary Arts Center, Theater, 7:30pm - 9:30pm
