@@ -8,31 +8,59 @@ coc:
 ---
 note:
 
-## RTOOT &amp; TOAST FALL 2026 SCHEDULE
+## RTOOT &amp; TOAST FALL 2026 AND SPRING 2027 SCHEDULE
 
-The RTOOT rehearses on Sunday afternoons, from 2:00 p.m. to 4:00 p.m. primarily at Cary’s Herb Young Community Center, 101 Wilkinson Ave, Cary, NC 27513.
+The RTOOT and TOAST rehearse on Sunday afternoons, from 2:00 p.m. to 6:00 p.m. primarily at Cary’s Herb Young Community Center, 101 Wilkinson Ave, Cary, NC 27513.
+- RTOOT rehearses from 2:00 p.m. to 4:00 p.m.
+- TOAST rehearses from 4:15 p.m. to 5:45 p.m.
 ---
-rehearsals1title: RTOOT and TOAST Fall 2026 Schedule – Cary Contract Request
+rehearsals1title: RTOOT and TOAST Fall 2026 Schedule
 ---
 rehearsals1:
 
 number, date, facility, room, time
-1, September 6, Herb Young Community Center, Cardinal A, 1pm - 6pm
-2, September 13, Herb Young Community Center, Cardinal A, 1pm - 6pm
-3, September 20, Bond Park Community Center, Maple, 1pm - 6pm
-4, September 27, Herb Young Community Center, Cardinal A, 1pm - 6pm
-5, October 4, Herb Young Community Center, Cardinal A, 1pm - 6pm
-6, October 11, Herb Young Community Center, Cardinal A, 1pm - 6pm
-7, October 18, Herb Young Community Center, Cardinal A, 1pm - 6pm
-8, October 25, Bond Park Community Center, Maple, 1pm - 6pm
-9, November 1, Herb Young Community Center, Cardinal A, 1pm - 6pm
-10, November 8, Herb Young Community Center, Cardinal A, 1pm - 6pm
-11, November 15, Herb Young Community Center, Cardinal A, 1pm - 6pm
-12, November 22, Herb Young Community Center, Cardinal A, 1pm - 6pm
+1, September 13, Herb Young Community Center, Cardinal A, 2pm - 6pm
+2, September 20, Bond Park Community Center, Maple, 2pm - 6pm
+3, September 27, Herb Young Community Center, Cardinal A, 2pm - 6pm
+4, October 4, Herb Young Community Center, Cardinal A, 2pm - 6pm
+5, October 11, Herb Young Community Center, Cardinal A, 2pm - 6pm
+6, October 18, Herb Young Community Center, Cardinal A, 2pm - 6pm
+7, October 25, Bond Park Community Center, Maple, 2pm - 6pm
+8, November 1, Herb Young Community Center, Cardinal A, 2pm - 6pm
+9, November 8, Herb Young Community Center, Cardinal A, 2pm - 6pm
+10, November 15, Herb Young Community Center, Cardinal A, 2pm - 6pm
+11, November 22, Herb Young Community Center, Cardinal A, 2pm - 6pm
 , November 29, No Rehearsal (Thanksgiving), ,
-13, December 6, Herb Young Community Center, Cardinal A, 1pm - 6pm
+12, December 6, Herb Young Community Center, Cardinal A, 2pm - 6pm
 ---
 concert1:
 
 number, date, facility, room, time
 Wed, December 9, RTOOT - Cary Arts Center, Theater, 7:30pm - 9:30pm
+---
+rehearsals2title: RTOOT and TOAST Spring 2027 Schedule
+---
+rehearsals2:
+
+number, date, facility, room, time
+1, January 24, Herb Young Community Center, Eagle B, 2pm - 6pm
+2, January 31, Herb Young Community Center, Eagle B, 2pm - 6pm
+3, February 7, Herb Young Community Center, Eagle B, 2pm - 6pm
+4, February 14, Herb Young Community Center, Eagle B, 2pm - 6pm
+5, February 21, Herb Young Community Center, Eagle B, 2pm - 6pm
+6, February 28, Herb Young Community Center, Eagle B, 2pm - 6pm
+7, March 7, Herb Young Community Center, Eagle B, 2pm - 6pm
+8, March 14, Herb Young Community Center, Eagle B, 2pm - 6pm
+9, March 21, Herb Young Community Center, Eagle B, 2pm - 6pm
+, March 28, No Rehearsal (Easter), ,
+10, April 4, Herb Young Community Center, Eagle B, 2pm - 6pm
+11, April 11, Herb Young Community Center, Eagle B, 2pm - 6pm
+12, April 18, Herb Young Community Center, Eagle B, 2pm - 6pm
+13, April 25, Herb Young Community Center, Eagle B, 2pm - 6pm
+---
+concert2:
+
+number, date, facility, room, time
+Sat, May 1, RTOOT - Cary Arts Center, Theater, 7:30pm - 9:30pm
+Wed, May 5, TOAST - Cary Arts Center, Theater, 7:30pm - 9:30pm
+Sat, May 8, RTOOT - Cary Arts Center, Theater, 7:30pm - 9:30pm
